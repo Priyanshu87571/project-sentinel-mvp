@@ -1,5 +1,5 @@
 # Project Sentinel – Public Health Intelligence System
-
+Demo link :- https://project-sentinel-mvp-nw6aakz9fbkbd6as8n6nbe.streamlit.app/
 ## 👥 Team
 - Priyanshu Raj
 - Arham Kelkar
