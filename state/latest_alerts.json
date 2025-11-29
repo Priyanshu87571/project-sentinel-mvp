@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-11-29T18:24:52.267676",
+    "zone": "South Ward",
+    "title": "Potential local health issue detected",
+    "reasons": [
+      "Citizen reports spike (1.9x recent)"
+    ],
+    "confidence": 0.6,
+    "recommended_action": "Increase monitoring in South Ward for the next few hours and prepare a contingency testing plan."
+  }
+]

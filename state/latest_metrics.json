@@ -1,0 +1,1402 @@
+[
+  {
+    "timestamp": "2025-11-29T18:22:48.811016",
+    "zone": "North Ward",
+    "aqi": 74.8,
+    "admissions": 12,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:22:48.811016",
+    "zone": "South Ward",
+    "aqi": 79.5,
+    "admissions": 13,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:22:48.811016",
+    "zone": "East Ward",
+    "aqi": 72.2,
+    "admissions": 4,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:22:48.811016",
+    "zone": "West Ward",
+    "aqi": 75.0,
+    "admissions": 17,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:22:51.522699",
+    "zone": "North Ward",
+    "aqi": 80.6,
+    "admissions": 17,
+    "reports": 11
+  },
+  {
+    "timestamp": "2025-11-29T18:22:51.522699",
+    "zone": "South Ward",
+    "aqi": 58.2,
+    "admissions": 8,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:22:51.522699",
+    "zone": "East Ward",
+    "aqi": 69.2,
+    "admissions": 13,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:22:51.522699",
+    "zone": "West Ward",
+    "aqi": 71.7,
+    "admissions": 14,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:22:53.834054",
+    "zone": "North Ward",
+    "aqi": 74.1,
+    "admissions": 22,
+    "reports": 10
+  },
+  {
+    "timestamp": "2025-11-29T18:22:53.834054",
+    "zone": "South Ward",
+    "aqi": 70.1,
+    "admissions": 18,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:22:53.834054",
+    "zone": "East Ward",
+    "aqi": 83.9,
+    "admissions": 11,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:22:53.834054",
+    "zone": "West Ward",
+    "aqi": 65.5,
+    "admissions": 13,
+    "reports": 8
+  },
+  {
+    "timestamp": "2025-11-29T18:22:56.548785",
+    "zone": "North Ward",
+    "aqi": 86.0,
+    "admissions": 16,
+    "reports": 10
+  },
+  {
+    "timestamp": "2025-11-29T18:22:56.548785",
+    "zone": "South Ward",
+    "aqi": 62.5,
+    "admissions": 13,
+    "reports": 2
+  },
+  {
+    "timestamp": "2025-11-29T18:22:56.548785",
+    "zone": "East Ward",
+    "aqi": 69.0,
+    "admissions": 14,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:22:56.548785",
+    "zone": "West Ward",
+    "aqi": 76.1,
+    "admissions": 7,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:22:58.853158",
+    "zone": "North Ward",
+    "aqi": 67.9,
+    "admissions": 20,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:22:58.853158",
+    "zone": "South Ward",
+    "aqi": 67.7,
+    "admissions": 11,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:22:58.853158",
+    "zone": "East Ward",
+    "aqi": 71.4,
+    "admissions": 10,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:22:58.853158",
+    "zone": "West Ward",
+    "aqi": 69.5,
+    "admissions": 15,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:23:01.583346",
+    "zone": "North Ward",
+    "aqi": 99.7,
+    "admissions": 16,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:23:01.583346",
+    "zone": "South Ward",
+    "aqi": 63.2,
+    "admissions": 14,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:23:01.583346",
+    "zone": "East Ward",
+    "aqi": 51.0,
+    "admissions": 19,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:23:01.583346",
+    "zone": "West Ward",
+    "aqi": 72.6,
+    "admissions": 12,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:23:03.874458",
+    "zone": "North Ward",
+    "aqi": 121.0,
+    "admissions": 14,
+    "reports": 9
+  },
+  {
+    "timestamp": "2025-11-29T18:23:03.874458",
+    "zone": "South Ward",
+    "aqi": 67.4,
+    "admissions": 14,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:23:03.874458",
+    "zone": "East Ward",
+    "aqi": 75.1,
+    "admissions": 12,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:23:03.874458",
+    "zone": "West Ward",
+    "aqi": 63.5,
+    "admissions": 12,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:23:06.608103",
+    "zone": "North Ward",
+    "aqi": 91.6,
+    "admissions": 20,
+    "reports": 8
+  },
+  {
+    "timestamp": "2025-11-29T18:23:06.608103",
+    "zone": "South Ward",
+    "aqi": 83.6,
+    "admissions": 13,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:23:06.608103",
+    "zone": "East Ward",
+    "aqi": 67.6,
+    "admissions": 10,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:23:06.608103",
+    "zone": "West Ward",
+    "aqi": 68.8,
+    "admissions": 8,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:23:08.894552",
+    "zone": "North Ward",
+    "aqi": 88.4,
+    "admissions": 12,
+    "reports": 11
+  },
+  {
+    "timestamp": "2025-11-29T18:23:08.894552",
+    "zone": "South Ward",
+    "aqi": 72.2,
+    "admissions": 6,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:23:08.894552",
+    "zone": "East Ward",
+    "aqi": 62.5,
+    "admissions": 13,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:23:08.894552",
+    "zone": "West Ward",
+    "aqi": 60.7,
+    "admissions": 14,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:23:11.629977",
+    "zone": "North Ward",
+    "aqi": 88.5,
+    "admissions": 17,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:23:11.629977",
+    "zone": "South Ward",
+    "aqi": 80.6,
+    "admissions": 11,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:23:11.629977",
+    "zone": "East Ward",
+    "aqi": 61.1,
+    "admissions": 13,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:23:11.629977",
+    "zone": "West Ward",
+    "aqi": 66.1,
+    "admissions": 7,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:23:13.941048",
+    "zone": "North Ward",
+    "aqi": 91.0,
+    "admissions": 16,
+    "reports": 9
+  },
+  {
+    "timestamp": "2025-11-29T18:23:13.941048",
+    "zone": "South Ward",
+    "aqi": 46.9,
+    "admissions": 13,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:23:13.941048",
+    "zone": "East Ward",
+    "aqi": 86.7,
+    "admissions": 13,
+    "reports": 9
+  },
+  {
+    "timestamp": "2025-11-29T18:23:13.941048",
+    "zone": "West Ward",
+    "aqi": 74.4,
+    "admissions": 6,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:23:16.653499",
+    "zone": "North Ward",
+    "aqi": 90.0,
+    "admissions": 18,
+    "reports": 2
+  },
+  {
+    "timestamp": "2025-11-29T18:23:16.653499",
+    "zone": "South Ward",
+    "aqi": 88.1,
+    "admissions": 15,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:23:16.653499",
+    "zone": "East Ward",
+    "aqi": 68.9,
+    "admissions": 8,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:23:16.653499",
+    "zone": "West Ward",
+    "aqi": 66.2,
+    "admissions": 14,
+    "reports": 2
+  },
+  {
+    "timestamp": "2025-11-29T18:23:18.986010",
+    "zone": "North Ward",
+    "aqi": 80.0,
+    "admissions": 16,
+    "reports": 12
+  },
+  {
+    "timestamp": "2025-11-29T18:23:18.986010",
+    "zone": "South Ward",
+    "aqi": 75.2,
+    "admissions": 8,
+    "reports": 10
+  },
+  {
+    "timestamp": "2025-11-29T18:23:18.986010",
+    "zone": "East Ward",
+    "aqi": 78.6,
+    "admissions": 10,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:23:18.986010",
+    "zone": "West Ward",
+    "aqi": 71.7,
+    "admissions": 10,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:23:21.675078",
+    "zone": "North Ward",
+    "aqi": 91.5,
+    "admissions": 19,
+    "reports": 17
+  },
+  {
+    "timestamp": "2025-11-29T18:23:21.675078",
+    "zone": "South Ward",
+    "aqi": 89.6,
+    "admissions": 8,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:23:21.675078",
+    "zone": "East Ward",
+    "aqi": 63.8,
+    "admissions": 14,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:23:21.675078",
+    "zone": "West Ward",
+    "aqi": 59.8,
+    "admissions": 13,
+    "reports": 8
+  },
+  {
+    "timestamp": "2025-11-29T18:23:24.008076",
+    "zone": "North Ward",
+    "aqi": 76.6,
+    "admissions": 18,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:23:24.008076",
+    "zone": "South Ward",
+    "aqi": 83.4,
+    "admissions": 9,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:23:24.008076",
+    "zone": "East Ward",
+    "aqi": 85.5,
+    "admissions": 17,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:23:24.008076",
+    "zone": "West Ward",
+    "aqi": 73.2,
+    "admissions": 6,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:23:26.713482",
+    "zone": "North Ward",
+    "aqi": 80.5,
+    "admissions": 17,
+    "reports": 10
+  },
+  {
+    "timestamp": "2025-11-29T18:23:26.713482",
+    "zone": "South Ward",
+    "aqi": 74.5,
+    "admissions": 15,
+    "reports": 2
+  },
+  {
+    "timestamp": "2025-11-29T18:23:26.713482",
+    "zone": "East Ward",
+    "aqi": 62.4,
+    "admissions": 8,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:23:26.713482",
+    "zone": "West Ward",
+    "aqi": 73.9,
+    "admissions": 6,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:23:29.030488",
+    "zone": "North Ward",
+    "aqi": 95.9,
+    "admissions": 19,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:23:29.030488",
+    "zone": "South Ward",
+    "aqi": 67.8,
+    "admissions": 11,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:23:29.030488",
+    "zone": "East Ward",
+    "aqi": 70.6,
+    "admissions": 14,
+    "reports": 1
+  },
+  {
+    "timestamp": "2025-11-29T18:23:29.030488",
+    "zone": "West Ward",
+    "aqi": 66.3,
+    "admissions": 19,
+    "reports": 1
+  },
+  {
+    "timestamp": "2025-11-29T18:23:31.741071",
+    "zone": "North Ward",
+    "aqi": 75.2,
+    "admissions": 26,
+    "reports": 9
+  },
+  {
+    "timestamp": "2025-11-29T18:23:31.741071",
+    "zone": "South Ward",
+    "aqi": 66.2,
+    "admissions": 13,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:23:31.741071",
+    "zone": "East Ward",
+    "aqi": 53.2,
+    "admissions": 11,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:23:31.741071",
+    "zone": "West Ward",
+    "aqi": 71.1,
+    "admissions": 14,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:23:34.092057",
+    "zone": "North Ward",
+    "aqi": 84.9,
+    "admissions": 32,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:23:34.092057",
+    "zone": "South Ward",
+    "aqi": 66.2,
+    "admissions": 10,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:23:34.092057",
+    "zone": "East Ward",
+    "aqi": 55.2,
+    "admissions": 17,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:23:34.092057",
+    "zone": "West Ward",
+    "aqi": 80.2,
+    "admissions": 12,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:23:36.763028",
+    "zone": "North Ward",
+    "aqi": 85.4,
+    "admissions": 17,
+    "reports": 10
+  },
+  {
+    "timestamp": "2025-11-29T18:23:36.763028",
+    "zone": "South Ward",
+    "aqi": 82.8,
+    "admissions": 4,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:23:36.763028",
+    "zone": "East Ward",
+    "aqi": 80.4,
+    "admissions": 9,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:23:36.763028",
+    "zone": "West Ward",
+    "aqi": 69.8,
+    "admissions": 7,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:23:39.126844",
+    "zone": "North Ward",
+    "aqi": 84.0,
+    "admissions": 20,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:23:39.126844",
+    "zone": "South Ward",
+    "aqi": 71.4,
+    "admissions": 8,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:23:39.126844",
+    "zone": "East Ward",
+    "aqi": 70.7,
+    "admissions": 17,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:23:39.126844",
+    "zone": "West Ward",
+    "aqi": 79.7,
+    "admissions": 7,
+    "reports": 8
+  },
+  {
+    "timestamp": "2025-11-29T18:23:41.784400",
+    "zone": "North Ward",
+    "aqi": 82.8,
+    "admissions": 17,
+    "reports": 8
+  },
+  {
+    "timestamp": "2025-11-29T18:23:41.784400",
+    "zone": "South Ward",
+    "aqi": 66.5,
+    "admissions": 7,
+    "reports": 10
+  },
+  {
+    "timestamp": "2025-11-29T18:23:41.784400",
+    "zone": "East Ward",
+    "aqi": 61.3,
+    "admissions": 14,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:23:41.784400",
+    "zone": "West Ward",
+    "aqi": 63.2,
+    "admissions": 18,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:23:44.161636",
+    "zone": "North Ward",
+    "aqi": 86.0,
+    "admissions": 13,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:23:44.161636",
+    "zone": "South Ward",
+    "aqi": 79.3,
+    "admissions": 14,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:23:44.161636",
+    "zone": "East Ward",
+    "aqi": 65.7,
+    "admissions": 11,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:23:44.161636",
+    "zone": "West Ward",
+    "aqi": 88.1,
+    "admissions": 9,
+    "reports": 2
+  },
+  {
+    "timestamp": "2025-11-29T18:23:46.809288",
+    "zone": "North Ward",
+    "aqi": 101.2,
+    "admissions": 18,
+    "reports": 13
+  },
+  {
+    "timestamp": "2025-11-29T18:23:46.809288",
+    "zone": "South Ward",
+    "aqi": 82.7,
+    "admissions": 6,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:23:46.809288",
+    "zone": "East Ward",
+    "aqi": 68.3,
+    "admissions": 11,
+    "reports": 2
+  },
+  {
+    "timestamp": "2025-11-29T18:23:46.809288",
+    "zone": "West Ward",
+    "aqi": 81.0,
+    "admissions": 11,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:23:49.184145",
+    "zone": "North Ward",
+    "aqi": 85.6,
+    "admissions": 18,
+    "reports": 10
+  },
+  {
+    "timestamp": "2025-11-29T18:23:49.184145",
+    "zone": "South Ward",
+    "aqi": 71.8,
+    "admissions": 7,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:23:49.184145",
+    "zone": "East Ward",
+    "aqi": 74.4,
+    "admissions": 13,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:23:49.184145",
+    "zone": "West Ward",
+    "aqi": 69.0,
+    "admissions": 20,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:23:51.870095",
+    "zone": "North Ward",
+    "aqi": 76.2,
+    "admissions": 7,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:23:51.870095",
+    "zone": "South Ward",
+    "aqi": 79.0,
+    "admissions": 10,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:23:51.870095",
+    "zone": "East Ward",
+    "aqi": 77.8,
+    "admissions": 12,
+    "reports": 2
+  },
+  {
+    "timestamp": "2025-11-29T18:23:51.870095",
+    "zone": "West Ward",
+    "aqi": 61.0,
+    "admissions": 17,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:23:54.210525",
+    "zone": "North Ward",
+    "aqi": 69.3,
+    "admissions": 15,
+    "reports": 8
+  },
+  {
+    "timestamp": "2025-11-29T18:23:54.210525",
+    "zone": "South Ward",
+    "aqi": 79.9,
+    "admissions": 8,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:23:54.210525",
+    "zone": "East Ward",
+    "aqi": 98.6,
+    "admissions": 17,
+    "reports": 9
+  },
+  {
+    "timestamp": "2025-11-29T18:23:54.210525",
+    "zone": "West Ward",
+    "aqi": 73.0,
+    "admissions": 12,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:23:56.911975",
+    "zone": "North Ward",
+    "aqi": 95.7,
+    "admissions": 21,
+    "reports": 9
+  },
+  {
+    "timestamp": "2025-11-29T18:23:56.911975",
+    "zone": "South Ward",
+    "aqi": 63.0,
+    "admissions": 7,
+    "reports": 1
+  },
+  {
+    "timestamp": "2025-11-29T18:23:56.911975",
+    "zone": "East Ward",
+    "aqi": 83.1,
+    "admissions": 13,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:23:56.911975",
+    "zone": "West Ward",
+    "aqi": 54.2,
+    "admissions": 15,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:23:59.233078",
+    "zone": "North Ward",
+    "aqi": 83.1,
+    "admissions": 7,
+    "reports": 8
+  },
+  {
+    "timestamp": "2025-11-29T18:23:59.233078",
+    "zone": "South Ward",
+    "aqi": 78.2,
+    "admissions": 8,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:23:59.233078",
+    "zone": "East Ward",
+    "aqi": 60.5,
+    "admissions": 11,
+    "reports": 8
+  },
+  {
+    "timestamp": "2025-11-29T18:23:59.233078",
+    "zone": "West Ward",
+    "aqi": 77.0,
+    "admissions": 12,
+    "reports": 8
+  },
+  {
+    "timestamp": "2025-11-29T18:24:01.944116",
+    "zone": "North Ward",
+    "aqi": 95.0,
+    "admissions": 20,
+    "reports": 10
+  },
+  {
+    "timestamp": "2025-11-29T18:24:01.944116",
+    "zone": "South Ward",
+    "aqi": 69.7,
+    "admissions": 12,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:24:01.944116",
+    "zone": "East Ward",
+    "aqi": 77.3,
+    "admissions": 10,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:24:01.944116",
+    "zone": "West Ward",
+    "aqi": 75.9,
+    "admissions": 12,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:24:04.255459",
+    "zone": "North Ward",
+    "aqi": 81.9,
+    "admissions": 28,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:24:04.255459",
+    "zone": "South Ward",
+    "aqi": 71.9,
+    "admissions": 15,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:24:04.255459",
+    "zone": "East Ward",
+    "aqi": 62.1,
+    "admissions": 13,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:24:04.255459",
+    "zone": "West Ward",
+    "aqi": 72.0,
+    "admissions": 13,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:24:06.997236",
+    "zone": "North Ward",
+    "aqi": 86.1,
+    "admissions": 14,
+    "reports": 8
+  },
+  {
+    "timestamp": "2025-11-29T18:24:06.997236",
+    "zone": "South Ward",
+    "aqi": 62.4,
+    "admissions": 21,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:24:06.997236",
+    "zone": "East Ward",
+    "aqi": 62.4,
+    "admissions": 11,
+    "reports": 9
+  },
+  {
+    "timestamp": "2025-11-29T18:24:06.997236",
+    "zone": "West Ward",
+    "aqi": 66.1,
+    "admissions": 13,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:24:09.276936",
+    "zone": "North Ward",
+    "aqi": 82.8,
+    "admissions": 11,
+    "reports": 10
+  },
+  {
+    "timestamp": "2025-11-29T18:24:09.276936",
+    "zone": "South Ward",
+    "aqi": 60.8,
+    "admissions": 14,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:24:09.276936",
+    "zone": "East Ward",
+    "aqi": 57.5,
+    "admissions": 6,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:24:09.276936",
+    "zone": "West Ward",
+    "aqi": 67.9,
+    "admissions": 9,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:24:12.037654",
+    "zone": "North Ward",
+    "aqi": 102.2,
+    "admissions": 22,
+    "reports": 12
+  },
+  {
+    "timestamp": "2025-11-29T18:24:12.037654",
+    "zone": "South Ward",
+    "aqi": 46.1,
+    "admissions": 15,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:24:12.037654",
+    "zone": "East Ward",
+    "aqi": 69.5,
+    "admissions": 10,
+    "reports": 11
+  },
+  {
+    "timestamp": "2025-11-29T18:24:12.037654",
+    "zone": "West Ward",
+    "aqi": 66.1,
+    "admissions": 17,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:24:14.493073",
+    "zone": "North Ward",
+    "aqi": 80.5,
+    "admissions": 15,
+    "reports": 8
+  },
+  {
+    "timestamp": "2025-11-29T18:24:14.493073",
+    "zone": "South Ward",
+    "aqi": 75.2,
+    "admissions": 17,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:24:14.493073",
+    "zone": "East Ward",
+    "aqi": 64.9,
+    "admissions": 12,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:24:14.493073",
+    "zone": "West Ward",
+    "aqi": 68.2,
+    "admissions": 12,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:24:17.058231",
+    "zone": "North Ward",
+    "aqi": 90.1,
+    "admissions": 23,
+    "reports": 12
+  },
+  {
+    "timestamp": "2025-11-29T18:24:17.058231",
+    "zone": "South Ward",
+    "aqi": 56.6,
+    "admissions": 14,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:24:17.058231",
+    "zone": "East Ward",
+    "aqi": 54.8,
+    "admissions": 9,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:24:17.058231",
+    "zone": "West Ward",
+    "aqi": 77.1,
+    "admissions": 11,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:24:19.516988",
+    "zone": "North Ward",
+    "aqi": 119.8,
+    "admissions": 13,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:24:19.516988",
+    "zone": "South Ward",
+    "aqi": 68.9,
+    "admissions": 7,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:24:19.516988",
+    "zone": "East Ward",
+    "aqi": 87.7,
+    "admissions": 9,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:24:19.516988",
+    "zone": "West Ward",
+    "aqi": 75.0,
+    "admissions": 10,
+    "reports": 1
+  },
+  {
+    "timestamp": "2025-11-29T18:24:22.091915",
+    "zone": "North Ward",
+    "aqi": 94.4,
+    "admissions": 23,
+    "reports": 14
+  },
+  {
+    "timestamp": "2025-11-29T18:24:22.091915",
+    "zone": "South Ward",
+    "aqi": 71.0,
+    "admissions": 9,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:24:22.091915",
+    "zone": "East Ward",
+    "aqi": 62.1,
+    "admissions": 12,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:24:22.091915",
+    "zone": "West Ward",
+    "aqi": 94.6,
+    "admissions": 12,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:24:24.536595",
+    "zone": "North Ward",
+    "aqi": 106.9,
+    "admissions": 9,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:24:24.536595",
+    "zone": "South Ward",
+    "aqi": 85.5,
+    "admissions": 12,
+    "reports": 2
+  },
+  {
+    "timestamp": "2025-11-29T18:24:24.536595",
+    "zone": "East Ward",
+    "aqi": 54.0,
+    "admissions": 7,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:24:24.536595",
+    "zone": "West Ward",
+    "aqi": 50.9,
+    "admissions": 7,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:24:27.128788",
+    "zone": "North Ward",
+    "aqi": 68.9,
+    "admissions": 13,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:24:27.128788",
+    "zone": "South Ward",
+    "aqi": 83.4,
+    "admissions": 10,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:24:27.128788",
+    "zone": "East Ward",
+    "aqi": 63.1,
+    "admissions": 13,
+    "reports": 8
+  },
+  {
+    "timestamp": "2025-11-29T18:24:27.128788",
+    "zone": "West Ward",
+    "aqi": 81.6,
+    "admissions": 12,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:24:29.555327",
+    "zone": "North Ward",
+    "aqi": 103.0,
+    "admissions": 19,
+    "reports": 8
+  },
+  {
+    "timestamp": "2025-11-29T18:24:29.555327",
+    "zone": "South Ward",
+    "aqi": 79.6,
+    "admissions": 7,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:24:29.555327",
+    "zone": "East Ward",
+    "aqi": 52.1,
+    "admissions": 17,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:24:29.555327",
+    "zone": "West Ward",
+    "aqi": 80.8,
+    "admissions": 14,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:24:32.149912",
+    "zone": "North Ward",
+    "aqi": 88.1,
+    "admissions": 10,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:24:32.149912",
+    "zone": "South Ward",
+    "aqi": 89.5,
+    "admissions": 13,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:24:32.149912",
+    "zone": "East Ward",
+    "aqi": 67.1,
+    "admissions": 13,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:24:32.149912",
+    "zone": "West Ward",
+    "aqi": 66.2,
+    "admissions": 14,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:24:34.576407",
+    "zone": "North Ward",
+    "aqi": 97.7,
+    "admissions": 16,
+    "reports": 9
+  },
+  {
+    "timestamp": "2025-11-29T18:24:34.576407",
+    "zone": "South Ward",
+    "aqi": 64.7,
+    "admissions": 13,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:24:34.576407",
+    "zone": "East Ward",
+    "aqi": 69.9,
+    "admissions": 13,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:24:34.576407",
+    "zone": "West Ward",
+    "aqi": 74.0,
+    "admissions": 14,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:24:37.190941",
+    "zone": "North Ward",
+    "aqi": 67.1,
+    "admissions": 14,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:24:37.190941",
+    "zone": "South Ward",
+    "aqi": 62.2,
+    "admissions": 10,
+    "reports": 2
+  },
+  {
+    "timestamp": "2025-11-29T18:24:37.190941",
+    "zone": "East Ward",
+    "aqi": 77.7,
+    "admissions": 13,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:24:37.190941",
+    "zone": "West Ward",
+    "aqi": 65.9,
+    "admissions": 13,
+    "reports": 8
+  },
+  {
+    "timestamp": "2025-11-29T18:24:39.594677",
+    "zone": "North Ward",
+    "aqi": 95.6,
+    "admissions": 15,
+    "reports": 10
+  },
+  {
+    "timestamp": "2025-11-29T18:24:39.594677",
+    "zone": "South Ward",
+    "aqi": 68.4,
+    "admissions": 10,
+    "reports": 2
+  },
+  {
+    "timestamp": "2025-11-29T18:24:39.594677",
+    "zone": "East Ward",
+    "aqi": 73.4,
+    "admissions": 10,
+    "reports": 2
+  },
+  {
+    "timestamp": "2025-11-29T18:24:39.594677",
+    "zone": "West Ward",
+    "aqi": 82.4,
+    "admissions": 18,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:24:42.212921",
+    "zone": "North Ward",
+    "aqi": 80.2,
+    "admissions": 16,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:24:42.212921",
+    "zone": "South Ward",
+    "aqi": 71.6,
+    "admissions": 11,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:24:42.212921",
+    "zone": "East Ward",
+    "aqi": 83.1,
+    "admissions": 7,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:24:42.212921",
+    "zone": "West Ward",
+    "aqi": 60.5,
+    "admissions": 15,
+    "reports": 8
+  },
+  {
+    "timestamp": "2025-11-29T18:24:44.648318",
+    "zone": "North Ward",
+    "aqi": 85.3,
+    "admissions": 21,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:24:44.648318",
+    "zone": "South Ward",
+    "aqi": 85.3,
+    "admissions": 9,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:24:44.648318",
+    "zone": "East Ward",
+    "aqi": 47.1,
+    "admissions": 12,
+    "reports": 5
+  },
+  {
+    "timestamp": "2025-11-29T18:24:44.648318",
+    "zone": "West Ward",
+    "aqi": 73.0,
+    "admissions": 15,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:24:47.238115",
+    "zone": "North Ward",
+    "aqi": 70.2,
+    "admissions": 18,
+    "reports": 12
+  },
+  {
+    "timestamp": "2025-11-29T18:24:47.238115",
+    "zone": "South Ward",
+    "aqi": 65.6,
+    "admissions": 17,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:24:47.238115",
+    "zone": "East Ward",
+    "aqi": 94.3,
+    "admissions": 21,
+    "reports": 4
+  },
+  {
+    "timestamp": "2025-11-29T18:24:47.238115",
+    "zone": "West Ward",
+    "aqi": 64.3,
+    "admissions": 13,
+    "reports": 8
+  },
+  {
+    "timestamp": "2025-11-29T18:24:49.670200",
+    "zone": "North Ward",
+    "aqi": 87.4,
+    "admissions": 15,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:24:49.670200",
+    "zone": "South Ward",
+    "aqi": 72.8,
+    "admissions": 9,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:24:49.670200",
+    "zone": "East Ward",
+    "aqi": 60.7,
+    "admissions": 9,
+    "reports": 9
+  },
+  {
+    "timestamp": "2025-11-29T18:24:49.670200",
+    "zone": "West Ward",
+    "aqi": 60.0,
+    "admissions": 13,
+    "reports": 7
+  },
+  {
+    "timestamp": "2025-11-29T18:24:52.267676",
+    "zone": "North Ward",
+    "aqi": 98.7,
+    "admissions": 18,
+    "reports": 6
+  },
+  {
+    "timestamp": "2025-11-29T18:24:52.267676",
+    "zone": "South Ward",
+    "aqi": 70.8,
+    "admissions": 11,
+    "reports": 9
+  },
+  {
+    "timestamp": "2025-11-29T18:24:52.267676",
+    "zone": "East Ward",
+    "aqi": 71.8,
+    "admissions": 11,
+    "reports": 3
+  },
+  {
+    "timestamp": "2025-11-29T18:24:52.267676",
+    "zone": "West Ward",
+    "aqi": 61.7,
+    "admissions": 12,
+    "reports": 4
+  }
+]
