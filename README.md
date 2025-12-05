@@ -4,7 +4,7 @@ Demo link :- https://project-sentinel-mvp-nw6aakz9fbkbd6as8n6nbe.streamlit.app/
 - Priyanshu Raj
 - Arham Kelkar
 
-## 🚀 Overview
+##  Overview
 Project Sentinel is a real-time public health intelligence platform that transforms cities from *reactive* to *proactive*.  
 Using an autonomous AI agent, it continuously:
 
